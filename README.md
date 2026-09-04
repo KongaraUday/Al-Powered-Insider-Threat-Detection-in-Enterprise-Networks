@@ -6,6 +6,8 @@ An advanced, end-to-end security analytics platform that utilizes **Machine Lear
 
 ##  Key Features
 * **Dual-Model Intelligence**: Compares Random Forest and XGBoost for maximum detection accuracy.
+## Technologies Used
+
 * **Behavioral Analytics**: Processes 10,000+ logs including login times, sensitive file access, and USB usage.
 * **Interactive Dashboard**: Real-time risk scoring and visual data distribution using Plotly.
 * **AI Chatbot**: A built-in security assistant to explain risk factors and security metrics.
