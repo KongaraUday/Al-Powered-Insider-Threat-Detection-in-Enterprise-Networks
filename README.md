@@ -63,8 +63,9 @@ Recall
 Confusion Matrix
 
 This comparison helps evaluate how effectively the models identify potential insider threats.
-
 ## Project Architecture
+
+```text
 AI-Powered-Insider-Threat-Detection/
 │
 ├── data/
@@ -83,8 +84,19 @@ AI-Powered-Insider-Threat-Detection/
 │   └── app.py
 │
 ├── requirements.txt
-│
 └── README.md
+```
+
+### Directory Description
+
+- **data/** – Contains the project datasets and processed data.
+- **models/** – Contains trained machine learning models.
+- **src/** – Contains preprocessing, training, and evaluation scripts.
+- **dashboard/** – Contains the Streamlit dashboard application.
+- **requirements.txt** – Contains the Python dependencies required to run the project.
+- **README.md** – Project documentation.
+
+## How It Works
 Directory Description
 data/ – Contains the project datasets and processed data.
 models/ – Contains trained machine learning models.
