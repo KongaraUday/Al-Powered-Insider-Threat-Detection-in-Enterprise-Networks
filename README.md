@@ -1,4 +1,4 @@
-#  Insider Threat Detection System with AI Chatbot
+# AI-Powered Insider Threat Detection
 
 An advanced, end-to-end security analytics platform that utilizes **Machine Learning** to identify high-risk behavioral patterns within an organization. This project compares two high-performance models (**Random Forest** and **XGBoost**) and features an interactive **Streamlit Dashboard** with an integrated **AI Security Assistant**.
 
